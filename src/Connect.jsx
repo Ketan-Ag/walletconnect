@@ -2,7 +2,7 @@ import React from 'react'
 
 const Connect = () => {
   return (
-    <div>
+    <div className='wallet-connect-button'>
       <w3m-button/>
     </div>
   )
